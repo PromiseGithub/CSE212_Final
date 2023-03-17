@@ -10,7 +10,7 @@ Before we dive in into what we have for Trees, there are few important terms tha
 
 **Subtree:** This comsist of a node that serves as a root to other nodes while being attached to a bigger tree. As the name implies, this is a tree in a tree. \
 **Node:** This major component of a tree are either pointing to other similar entities or are being pointed to. They also contain the values that are asscociated with trees. \
-**Root:** 
+**Root:** This is also known as the root node and it's the very first node in a tree.
 
 **The picture below will help you understand Tree.**
 
