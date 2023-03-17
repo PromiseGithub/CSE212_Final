@@ -7,7 +7,7 @@ Before we dive into programming with Data Structure, it is important that uderst
 
 ##	Contact
 ### Name: Promise Okoroji
-### Class: CSE 212 - 01
+### Class: CSE 212 - 05
 
 If you have question on the materials presented below or you wish to make an input or correection, you can reach me at:
 
@@ -18,7 +18,7 @@ okorojionly@gmail.com
 
 - ### **[Linked List](linked.md)**
 
-### **Tree**
+### **[Tree](Tree.md)**
 -	Introduction
 -	Recursion
 -	Performance
