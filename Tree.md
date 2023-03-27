@@ -18,6 +18,9 @@ Before we dive in into what we have for Trees, there are few important terms tha
 <div align="center">Image source: <a href="https://www.geeksforgeeks.org/introduction-to-tree-data-structure-and-algorithm-tutorials/">Geeksforgeeks</a></div>
 
 ## **Recursion**
+The general idea for recursion is the concept of doing a particular thing over and over until the desired result is attained. Applying this to computing, when we talk about recursion, we are talking about the contineous use of a particular program or method until a certain outcome is reached. \
+**Why is recursion important in Trees?** <br>
+In order for tree operations to be successful, recursion is required. 
  
 ## **Performance**
 
